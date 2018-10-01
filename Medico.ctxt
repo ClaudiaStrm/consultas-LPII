@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Medico
+comment1.params=nome\ cpf\ dataNascimento\ crm
+comment1.target=Medico(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getCrm()
+numComments=3

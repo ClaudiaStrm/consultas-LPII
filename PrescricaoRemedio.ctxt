@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=PrescricaoRemedio
+comment1.params=consulta\ remedio\ dosagem\ intervalo
+comment1.target=PrescricaoRemedio(Consulta,\ java.lang.String,\ int,\ java.lang.String)
+comment2.params=
+comment2.target=Consulta\ getConsulta()
+comment3.params=
+comment3.target=java.lang.String\ getRemedio()
+comment4.params=
+comment4.target=int\ getDosagem()
+comment5.params=
+comment5.target=java.lang.String\ getIntervalo()
+numComments=6

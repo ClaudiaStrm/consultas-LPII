@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Consulta
+comment1.params=paciente\ medico
+comment1.target=Consulta(Paciente,\ Medico)
+comment2.params=
+comment2.target=Paciente\ getPaciente()
+comment3.params=
+comment3.target=Medico\ getMedico()
+comment4.params=data
+comment4.target=void\ setData(java.lang.String)
+comment5.params=
+comment5.target=java.lang.String\ getData()
+numComments=6

@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=PrescricaoCompleta
+comment1.params=
+comment1.target=PrescricaoCompleta()
+comment2.params=novaPrescricao
+comment2.target=void\ adicionar(PrescricaoRemedio)
+comment3.params=
+comment3.target=java.util.ArrayList\ getPrescricaoCompleta()
+comment4.params=posicao
+comment4.target=PrescricaoRemedio\ obter(int)
+comment5.params=posicao
+comment5.target=void\ remover(int)
+comment5.text=\n\ \ \ \ public\ PrescricaoRemedio\ obter(PrescricaoRemedio\ prescricaoRemedio)\ {\n\ \ \ \ \ \ \ \ return\ this.prescricao.get(prescricaoRemedio);\n}
+comment6.params=prescricaoRemedio
+comment6.target=void\ remover(PrescricaoRemedio)
+numComments=7
